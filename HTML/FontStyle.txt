@@ -24,3 +24,5 @@ Impact
 Times New Roman
 Trebuchet MS
 Verdana
+
+font-size: 24px 代表字符的高度是24Pixel

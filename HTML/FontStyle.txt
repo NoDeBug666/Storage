@@ -1,0 +1,26 @@
+Serif
+有補線的字形,如 Times New Romen
+
+Sans-Serif
+無補線的字形,如 Arial
+
+Monospace
+每個字的寬度都一樣 如細明體的英文 
+
+Cursive
+比較隨興或偏手寫的字形
+
+Fantasy Family
+有固定裝飾的字形
+
+能夠在大部分的Mac和Windows作業系統找到的字
+Andale Mono
+Arial
+Arial Black
+Comic Sans
+Courier New
+Georgia
+Impact
+Times New Roman
+Trebuchet MS
+Verdana
